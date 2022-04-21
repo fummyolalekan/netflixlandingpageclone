@@ -1,0 +1,130 @@
+body{
+	background-color: black;
+	font-family: sans-serif;
+	background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/e316821f-7177-48f4-b748-e44a8b0840df/5eee3d21-7c5b-4eb0-a560-194ec0c3ad0a/CH-en-20220406-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+	background-size: 100% 24%;
+	background-repeat: no-repeat;
+}
+p{
+	margin: 0;
+}
+h1{
+	margin: 0;
+}
+.logo{
+	height: 70px;
+	width: 130px;
+	margin-bottom: 100px;
+}
+
+.title{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	width: 40%;
+	margin-left: 30%;
+}
+
+.subtitle-one{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+.subtitle-two{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+.form{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 150px;
+}
+
+.email{
+	width: 350px;
+	padding: 15px;
+	font-size: 15px;
+	border-color: white;
+}
+
+.button{
+	height: 52px;
+	width: 150px;
+	background-color: red;
+	color: white;
+	border-color: red;
+}
+
+.line{
+	background-color: #f3f3f3;
+	height: 10px;
+	margin-bottom: 50px;
+}
+
+p{
+	margin: 0;
+}
+
+.section-two{
+	display: flex;
+}
+
+.section-two-child-one{
+}
+.enjoy{
+	color: white;
+	font-size: 50px;
+	text-align: left;
+	margin-left: 10%;
+	margin-top: 90px;
+	margin-bottom: 10px;
+}
+.watch{
+	margin-left: 10%;
+	color: white;
+	font-size: 35px;
+	text-align: left;
+	margin-top: 10px;
+}
+
+.section-two-child-two{
+	/*height: 100px;
+	background-color: white;
+	width: 50%;*/
+}
+
+.frequently{
+	text-align: center;
+	color: white;
+	font-size: 100x;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.faq{
+	height: 50px;
+	width: 700px;
+	background-color: gray;
+	color: white;
+	font-size: 20px;
+	text-align: left;
+	border-color: grey;
+	line-height: 50px;
+	margin-left: 300px;
+}
+/*.faq{
+	display: inline-block;
+	line-height:50px;
+	height: 100%;
+	text-align: left;
+}*/
+
+.line2{
+	background-color: black;
+	height: 10px;
+}
